@@ -1,10 +1,10 @@
-package com.yash.ppmtoolapi;
+package in.codeblog.ppmapi;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class PpmtoolapiApplicationTests {
+class PpmapiApplicationTests {
 
 	@Test
 	void contextLoads() {
